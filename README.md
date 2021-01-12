@@ -58,7 +58,7 @@ Fecha de entrega: 12/01/2021
 
 ## 5.	EXPLICACIÓN: 
 Tinkercad es un navegador web el cual lo utilizamos para realizar los circuitos de la práctica es un simulador donde podemos encontrar todo tipos de elementos para hacer la práctica,  permite diseñar y modelar objetos en 3D, desde elementos simples a formas más complejas. En el siguiente video se muestra como realizamos el circuito, desde como armarlo hasta como sacar corrientes en cada malla.
-[Explicacion en video ](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
+[Explicacion en video ](https://youtu.be/xx26RlqAQiM)
 
 
 
@@ -133,5 +133,5 @@ LEYES DE KIRCHHOFF
 
 
 Video explicativo 
-[video del grupo en youtube](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
-[segunda parte lab 1 calculo de corrientes](https://www.youtube.com/watch?v=_Au_3_axZe8 "segunda parte lab 1")
+[video del grupo en youtube](https://youtu.be/xx26RlqAQiM)
+
