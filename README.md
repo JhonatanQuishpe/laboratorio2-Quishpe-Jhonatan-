@@ -1,5 +1,5 @@
 # Informe de laboratorio 2 Jhonatan Quishpe 
-Informe Lab 1 (Quishpe Jhonatan- Flores Arévalo)
+Informe Lab 2 (Quishpe Jhonatan- Flores Arévalo)
 # Informe laboratorio 2
 
 **DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES**
