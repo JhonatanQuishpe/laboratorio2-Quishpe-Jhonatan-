@@ -85,7 +85,7 @@ La elaboración del laboratorio nos permitió tener una mayor comprensión sobre
 
 7.2 Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
-![](https://fotos.subefotos.com/306c093fd10a1f8dab2d14cdf821db84o.jpg)
+![](https://fotos.subefotos.com/ded1fb8968cf0915e815002e6a65c9a2o.jpg)
 
 ## 8.	CONCLUSIONES Y RECOMENDACIONES: 
 
